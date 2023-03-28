@@ -5,3 +5,9 @@ Repository Ini Berisi Pengalaman Belajarku di Dicoding
 Belajar kelas Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud. (Progres 42%)
   * Belajar  Membuat HTTP Server Menggunakan Hapi.
   * Belajar tools yang dapat digunakan untuk membuat Back-End.
+
+Materi yang dipelajari sebagai berikut.
+  * Installasi hapi
+  * Mengetahui kelemahan hapi
+
+
